@@ -2,6 +2,14 @@
 ***
 Estou aprendendo linguagem _**Markdown**_!
 
+> Manual completo das tags e marcadores no repositório do curso, clonado do @gustavoguanabara.
+
+> Repositório com relação muito completa de emojis:
+[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
+> Site com relação de emojis para Títulos:
+[emojipedia](https://emojipedia.org/people/)
+
 Lista numerada:
 1. Teste
 2. Outro
